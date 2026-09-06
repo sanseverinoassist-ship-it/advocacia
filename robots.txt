@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# PENDENTE: substituir __BASE_URL__ pelo dominio final
+Sitemap: __BASE_URL__/sitemap.xml

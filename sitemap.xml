@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- PENDENTE: substituir __BASE_URL__ pelo dominio final antes de enviar ao Search Console -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>__BASE_URL__/</loc></url>
+  <url><loc>__BASE_URL__/produtos.html</loc></url>
+  <url><loc>__BASE_URL__/raio-x.html</loc></url>
+  <url><loc>__BASE_URL__/implementacao.html</loc></url>
+  <url><loc>__BASE_URL__/para-empresas.html</loc></url>
+  <url><loc>__BASE_URL__/sobre.html</loc></url>
+  <url><loc>__BASE_URL__/contato.html</loc></url>
+  <url><loc>__BASE_URL__/checklist-gratuito.html</loc></url>
+  <url><loc>__BASE_URL__/juridico-saloes-de-beleza.html</loc></url>
+  <url><loc>__BASE_URL__/juridico-clinicas-de-estetica.html</loc></url>
+  <url><loc>__BASE_URL__/politica-de-privacidade.html</loc></url>
+  <url><loc>__BASE_URL__/termos-de-uso.html</loc></url>
+</urlset>
